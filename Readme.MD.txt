@@ -1,0 +1,3 @@
+Food Ordering System is an website application which will help restaurant to optimized and control over their restaurants. This food ordering system allows the user to
+ select the desired food items from a list of available menu items provided by the local hotel or restaurant. The user can place orders for the food items of their 
+like from the list.  For the waiters, it is making life easier because they don’t have to go kitchen and give the orders to chef easily.
